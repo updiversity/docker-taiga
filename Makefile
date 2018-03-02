@@ -4,7 +4,7 @@
 
 .PHONY: image version help
 
-PROJECT := docker-taiga
+PROJECT := taiga
 PLATFORMS := linux
 ARCH := amd64
 DOCKER_IMAGE := updiversity/$(PROJECT)
